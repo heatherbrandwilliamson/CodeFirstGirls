@@ -1,0 +1,6 @@
+def simple_multiplication(number) :
+    if (number % 2) ==0: 
+        calc = number * 8
+    else:
+        calc = number * 9 
+    return calc
